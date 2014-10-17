@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[yno:home|Door43 (yno)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-yno|d43-yno repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-yno/archive/master.zip|d43-yno.zip]]
+
+**Recent Changes**
+{{changes>ns = yno}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/yno|Ethnologue data]]
+
